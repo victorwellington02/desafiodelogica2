@@ -50,8 +50,8 @@ else{
     console.log(`Seu nome não começa com a letra R`)
 }
 
-const sobrenome = "Rocha";
-const Nome = "Eliézer"
+const sobrenome = "Victor";
+const Nome = "Wellington"
 
 if(sobrenome.length >= 6 || Nome.substring(0,1) == "E")
 {
